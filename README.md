@@ -1,0 +1,1 @@
+This assignment is for COMP-001B-L01, it is the first assignment of the year I will be adding things like html and css.
