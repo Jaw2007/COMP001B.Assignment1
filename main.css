@@ -5,3 +5,7 @@ h1 {
 #copyright {
     font-size: 70%;
 }
+img{
+    border: 8px solid #ff1717;
+    padding: 15px;
+}
